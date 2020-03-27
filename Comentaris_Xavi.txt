@@ -1,0 +1,6 @@
+========
+20200327
+========
+Hola Dani,
+
+prova a executar el codi JS des d'un arxiu extern
