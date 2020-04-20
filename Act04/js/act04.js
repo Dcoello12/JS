@@ -1,28 +1,34 @@
 // Tasca 1
 //Comparar totes les variables, i digues quina és  més gran de totes:
 
-var primera = 10
-var segona = 20
-var tercera =30
-var quarta = 40
+var primera = 10;
+var segona = 20;
+var tercera =30;
+var quarta = 40;
 
 if (segona > primera ) {
-  document.write ("El numero 20 es mas grande que 10")}
+  document.write ("El numero 20 es mas grande que 10")
+}
 
 if (tercera > primera) {
-  document.write ("<br>El numero 30 es mas grande que 10</br>")}
+  document.write ("<br>El numero 30 es mas grande que 10</br>")
+}
 
 if (tercera > segona) {
-  document.write ("El numero 30 es mas grande que 20")}
+  document.write ("El numero 30 es mas grande que 20")
+}
 
 if (quarta > primera) {
-    document.write ("<br>El numero 40 es mas grande que 10</br>")}
+    document.write ("<br>El numero 40 es mas grande que 10</br>");
+  }
 
 if (quarta > segona) {
-    document.write ("El numero 40 es mas grande que 20")}
+    document.write ("El numero 40 es mas grande que 20");
+  }
 
 if (quarta > tercera) {
-    document.write ("<br>El numero 40 es mas grande que 30</br>")}
+    document.write ("<br>El numero 40 es mas grande que 30</br>");
+  }
 
 //Tasca 2
 //Comparar totes les variables, i digues quina és  més petita de totes:
@@ -52,13 +58,14 @@ if (numero_1 < numero_4) {
 
 if (primera==segona ) {
     document.write ("<br>El numero 10 es igual que 20</br>")}
-    else {
+else {
     document.write ("<br>El numero 10 no es igual que 20</br>")}
 
 if (primera==tercera ) {
-    document.write ("El numero 10 es igual que 30")}
-    else {
-    document.write ("El numero 10 no es igual que 30")}
+    document.write ("El numero 10 es igual que 30");
+  } else {
+    document.write ("El numero 10 no es igual que 30");
+  }
 
 if (primera==quarta ) {
     document.write ("<br>El numero 10 es igual que 40</br>")}
